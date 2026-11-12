@@ -1,0 +1,16 @@
+{
+  "site": {
+    "brand": "Test Person",
+    "title": { "en": "Test Person — CV", "de": "Test Person — Lebenslauf" },
+    "description": { "en": "A \"quoted\" <b>CV</b>.", "de": "" },
+    "contactButton": { "en": "Contact", "de": "Kontakt" }
+  },
+  "hero": {
+    "firstName": "Test",
+    "lastName": "Person",
+    "tagline": { "en": "Nothing to see </script><script>alert(1)</script>", "de": "Nichts zu sehen" }
+  },
+  "media": {
+    "assets/uploads/photo-abc123@2400.webp": { "x": 40, "y": 60, "zoom": 1.5, "fit": "cover", "caption": { "en": "A caption", "de": "Eine Bildunterschrift" } }
+  }
+}

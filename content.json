@@ -1,0 +1,596 @@
+{
+  "site": {
+    "title": {
+      "en": "Nikolay Riva — CV",
+      "de": "Nikolay Riva — Lebenslauf"
+    },
+    "description": {
+      "en": "Curriculum vitae of Nikolay Riva.",
+      "de": "Lebenslauf von Nikolay Riva."
+    },
+    "brand": "Nikolay Riva",
+    "contactButton": {
+      "en": "Contact",
+      "de": "Kontakt"
+    }
+  },
+  "hero": {
+    "eyebrow": {
+      "en": "Curriculum Vitae",
+      "de": "Lebenslauf"
+    },
+    "firstName": "Nikolay",
+    "middleName": "Andreevitch",
+    "lastName": "Riva",
+    "tagline": {
+      "en": "Leave the world a little better than you found it.",
+      "de": "Hinterlasse die Welt ein bisschen besser, als du sie vorgefunden hast."
+    },
+    "primaryButton": {
+      "en": "Get in touch",
+      "de": "Kontakt aufnehmen"
+    },
+    "secondaryButton": {
+      "en": "About me",
+      "de": "Über mich"
+    }
+  },
+  "about": {
+    "navLabel": {
+      "en": "About",
+      "de": "Über mich"
+    },
+    "eyebrow": {
+      "en": "About",
+      "de": "Über mich"
+    },
+    "headline": {
+      "en": "This is me.",
+      "de": "Das bin ich."
+    },
+    "intro": {
+      "en": "Get to know me",
+      "de": "Lerne mich kennen"
+    },
+    "photo": "assets/uploads/9f6f0198-471e-4056-96dd-26531c4603e7-1-1-5d7dff.webp",
+    "story": {
+      "en": "Hi,\n\nI have one simple rule: **I get something out of every day.**\n\nEven when a school day is long and tough, I look for something to take with me. I learn something new, deepen a friendship or organise my everyday life a little better. There's always something to gain.\n\nHow I work depends on the task. Repetitive work I get done efficiently, with the right digital tools. Something completely new I approach calmly, with pencil, paper and the time it needs. Sometimes I work alone, sometimes in a team, whichever makes the result better.\n\nMy strength is **coordinating and explaining**. Once I've understood something, I can pass it on clearly. This shows most in the scouts, where I plan and prepare camps. I'm proud of that, because when I'm looking forward to something, I give it everything.\n\nWhat drives me is helping others, discovering new things and building something of my own. Easy-going, spontaneous and fully committed.\n\nAfter graduating, I'd like to try new paths, for example in hospitality. I'll take my IT skills with me and put them to full use.",
+      "de": "Hallo,\n\nich habe eine einfache Regel: **Aus jedem Tag nehme ich etwas mit.**\n\nAuch wenn ein Schultag lang und zäh ist, suche ich etwas, das ich mitnehmen kann. Ich lerne etwas Neues, vertiefe eine Freundschaft oder organisiere meinen Alltag besser. Irgendetwas gibt es immer zu gewinnen.\n\nWie ich arbeite, hängt von der Aufgabe ab. Repetitives erledige ich effizient, mit den richtigen digitalen Werkzeugen. Völlig Neues gehe ich ruhig an, mit Bleistift, Papier und der nötigen Zeit. Manchmal arbeite ich allein, manchmal im Team, je nachdem, was das Ergebnis besser macht.\n\nMeine Stärke ist das **Koordinieren und Erklären**. Was ich verstanden habe, kann ich anderen klar weitergeben. Am deutlichsten zeigt sich das in der Pfadi, wo ich Lager plane und vorbereite. Darauf bin ich stolz, denn wenn ich mich auf etwas freue, gebe ich alles.\n\nMich treibt an, anderen zu helfen, Neues zu entdecken und etwas Eigenes aufzubauen. Unkompliziert, spontan und mit vollem Einsatz.\n\nNach meinem Abschluss möchte ich neue Wege gehen, zum Beispiel in die Hotellerie. Die Informatik nehme ich dabei mit und setze sie voll ein."
+    }
+  },
+  "education": {
+    "navLabel": {
+      "en": "Education",
+      "de": "Ausbildung"
+    },
+    "eyebrow": {
+      "en": "Education",
+      "de": "Ausbildung"
+    },
+    "headline": {
+      "en": "Where I learned.",
+      "de": "Wo ich gelernt habe."
+    },
+    "items": [
+      {
+        "period": {
+          "en": "2014 – 2020",
+          "de": ""
+        },
+        "title": {
+          "en": "Primary school, years 1–6",
+          "de": "Primarschule, 1.–6. Klasse"
+        },
+        "place": {
+          "en": "Südquartier, Rapperswil-Jona",
+          "de": ""
+        },
+        "branches": [
+          {
+            "period": {
+              "en": "Years 4–6",
+              "de": "4.–6. Klasse"
+            },
+            "title": {
+              "en": "Computer science as an extra subject",
+              "de": "Informatik als Zusatzfach"
+            },
+            "text": {
+              "en": "This is where my interest in computer science was first sparked.",
+              "de": "Hier sprang der erste Funke für die Informatik über."
+            }
+          }
+        ]
+      },
+      {
+        "period": {
+          "en": "2020 – 2023",
+          "de": ""
+        },
+        "title": {
+          "en": "Secondary school, years 1–3",
+          "de": "Sekundarschule, 1.–3. Klasse"
+        },
+        "place": {
+          "en": "HS Weiden, Rapperswil-Jona",
+          "de": ""
+        },
+        "branches": [
+          {
+            "period": {
+              "en": "Years 1–3",
+              "de": "1.–3. Klasse"
+            },
+            "title": {
+              "en": "Computer science as an extra subject",
+              "de": "Informatik als Zusatzfach"
+            },
+            "text": {
+              "en": "This is where I really started programming: first in Scratch, where I built my own game, then on learning websites that taught me the basic concepts of programming.",
+              "de": "Hier habe ich richtig mit dem Programmieren angefangen: zuerst mit Scratch, wo ich ein eigenes Game gebaut habe, danach auf Lernwebsites, die mir die Grundkonzepte des Programmierens beigebracht haben."
+            }
+          }
+        ]
+      },
+      {
+        "period": {
+          "en": "2023 – 2024",
+          "de": ""
+        },
+        "title": {
+          "en": "Pre-apprenticeship",
+          "de": "Vorlehre"
+        },
+        "place": {
+          "en": "BWZ, Rapperswil-Jona",
+          "de": ""
+        },
+        "branches": []
+      },
+      {
+        "period": {
+          "en": "2024 – Present",
+          "de": "2024 – heute"
+        },
+        "title": {
+          "en": "IT Secondary School (IMS, technology track)",
+          "de": "Informatikmittelschule (Technik)"
+        },
+        "place": {
+          "en": "BWZ, Rapperswil-Jona",
+          "de": ""
+        },
+        "branches": [
+          {
+            "period": {
+              "en": "May 2025",
+              "de": "Mai 2025"
+            },
+            "title": {
+              "en": "First real website (scout notice board V1)",
+              "de": "Erste echte Website (Pfadi-Kästli V1)"
+            },
+            "text": {
+              "en": "The plan was to renew our old scout notice board, the Pfadi-Kästli. I started with HTML and CSS and moved on to JavaScript. It was already a thousand times better than the old board, but over time I learned so much more that the website was left behind as \"outdated\".",
+              "de": "Der Plan war, ein altes Pfadi-Kästli zu erneuern. Angefangen habe ich mit HTML und CSS, weiter ging es mit JavaScript. Das Ergebnis war schon tausendfach besser als das alte Kästli. Mit der Zeit kam aber viel neues Wissen dazu, und so blieb die Website «veraltet» zurück."
+            }
+          },
+          {
+            "period": {
+              "en": "October 2026 – present",
+              "de": "Oktober 2026 – heute"
+            },
+            "title": {
+              "en": "Scout notice board V2",
+              "de": "Pfadi-Kästli V2"
+            },
+            "text": {
+              "en": "New experience, new attempt: I took the design from the homepage and built it. Right now I am collecting feedback and improving it. I hope it will be officially accepted.",
+              "de": "Neue Erfahrung, neuer Versuch: Das Design habe ich von der Homepage übernommen und umgesetzt. Zurzeit hole ich Feedback ein und verbessere die Seite laufend. Ich hoffe, dass sie offiziell angenommen wird."
+            }
+          },
+          {
+            "period": {
+              "en": "October 2026 – present",
+              "de": "Oktober 2026 – heute"
+            },
+            "title": {
+              "en": "Online CV",
+              "de": "Online-CV"
+            },
+            "text": {
+              "en": "A side project that started with one thought: wouldn't it be great to have my CV online? So I got started right away.",
+              "de": "Als Nebenprojekt dachte ich mir: Wäre es nicht mega, einen Lebenslauf online zu haben? Dementsprechend war ich sofort dran."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "languages": {
+    "navLabel": {
+      "en": "Languages",
+      "de": "Sprachen"
+    },
+    "eyebrow": {
+      "en": "Languages",
+      "de": "Sprachen"
+    },
+    "headline": {
+      "en": "Spoken fluently.",
+      "de": "Fliessend gesprochen."
+    },
+    "items": [
+      {
+        "name": {
+          "en": "German",
+          "de": "Deutsch"
+        },
+        "note": {
+          "en": "Mother tongue",
+          "de": "Muttersprache"
+        },
+        "level": 100
+      },
+      {
+        "name": {
+          "en": "Russian",
+          "de": "Russisch"
+        },
+        "note": {
+          "en": "Mother tongue",
+          "de": "Muttersprache"
+        },
+        "level": 50
+      },
+      {
+        "name": {
+          "en": "English",
+          "de": "Englisch"
+        },
+        "note": {
+          "en": "Learned at school",
+          "de": "Schulkenntnisse"
+        },
+        "level": 100
+      },
+      {
+        "name": {
+          "en": "French",
+          "de": "Französisch"
+        },
+        "note": {
+          "en": "Learned at school",
+          "de": "Schulkenntnisse"
+        },
+        "level": 40
+      }
+    ]
+  },
+  "hobbies": {
+    "navLabel": {
+      "en": "Interests",
+      "de": "Interessen"
+    },
+    "eyebrow": {
+      "en": "Beyond the classroom",
+      "de": "Ausserhalb des Klassenzimmers"
+    },
+    "headline": {
+      "en": "What excites me.",
+      "de": "Was mich begeistert."
+    },
+    "items": [
+      {
+        "title": {
+          "en": "Computers",
+          "de": "Computer"
+        },
+        "text": {
+          "en": "Technology keeps evolving, and so do I.",
+          "de": "Die Technik entwickelt sich weiter – und ich mit ihr."
+        },
+        "details": {
+          "en": "My fascination with computers goes back a long way. It probably all started with video games: I got to know the system and figured out how to work around problems, just to get a mod running in a game.\n\nKnowing my way around the deeper layers of operating systems is very practical, and it helped me **build my own PC**, part by part.\n\nThis passion finally led me to the **IT Secondary School (IMS)**. There I keep deepening my knowledge of computers, and I'm learning to build my own programs and applications.\n\nIf you're interested, take a look at my projects!\nMy GitHub: https://github.com/rivanikolay?tab=repositories",
+          "de": "Meine Begeisterung für Computer reicht weit zurück. Angefangen hat wohl alles mit Videospielen: Ich habe das System kennengelernt und herausgefunden, wie man Probleme umgeht, nur um eine Mod in ein Spiel einzubauen.\n\nDass ich mich auch in den tieferen Schichten von Betriebssystemen auskenne, ist sehr praktisch und hat mir geholfen, meinen **eigenen PC** Teil für Teil zusammenzubauen.\n\nDiese Leidenschaft hat mich schliesslich an die **Informatikmittelschule (IMS)** geführt. Dort vertiefe ich mein Wissen rund um Computer und lerne, eigene Programme und Anwendungen zu entwickeln.\n\nBei Interesse: Schau dir gerne meine Projekte an!\nMein GitHub: https://github.com/rivanikolay?tab=repositories"
+        },
+        "images": [
+          "assets/uploads/f52e8d8d-6567-4617-b9a4-7e866b4d6ae6-1-1-564fc8@768.webp",
+          "assets/uploads/61b5cd48-c607-4975-99dd-44e7be8f4b4f-1-1-2cccd1@1024.webp"
+        ]
+      },
+      {
+        "title": {
+          "en": "Outdoor",
+          "de": "Outdoor"
+        },
+        "text": {
+          "en": "Fresh air is something I just need.",
+          "de": "Frische Luft brauche ich einfach."
+        },
+        "details": {
+          "en": "Hiking, skiing or snowboarding: whenever I have a free weekend, you'll find me doing one of the three.\n\nIn the future, I also want to learn **climbing and paragliding**. I already have plans for that ;)\n\nI think it's important to spend time in nature. You gain a lot of experience, along with varied, exciting memories and stories.\n\nStories that spark good conversations and help pass on knowledge. It's also great to exchange experiences with other people along the way.",
+          "de": "Ob Wandern, Skifahren oder Snowboarden: Wenn ich ein freies Wochenende habe, mache ich bestimmt eines dieser drei Dinge.\n\nIn Zukunft möchte ich noch **Klettern und Gleitschirmfliegen** lernen. Pläne dafür habe ich schon ;)\n\nIch finde es wichtig, Zeit in der Natur zu verbringen. Dabei sammelt man viel Erfahrung und dazu abwechslungsreiche, spannende Erinnerungen und Geschichten.\n\nGeschichten, aus denen gute Gespräche entstehen und mit denen man Wissen weitergeben kann. Dabei ist es auch toll, sich mit anderen Menschen auszutauschen."
+        },
+        "images": [
+          "assets/uploads/dsc00817-391082@2400.webp",
+          "assets/uploads/b111f683-6c2e-4113-bf4d-eef94c0fb1e9-1-1-ddf2ad@768.webp",
+          "assets/uploads/3f5deba9-e590-4a85-803a-348b0063044b-1-1-9a7b91@2048.webp",
+          "assets/uploads/b831d99e-9b53-47d0-adae-4b91ba4bbc3c-1-1-8cd48f@768.webp",
+          "assets/uploads/a6f3892e-f167-4b70-95f2-c8956bd0b8f3-1-1-51e169@1024.webp"
+        ]
+      },
+      {
+        "title": {
+          "en": "Design",
+          "de": "Design"
+        },
+        "text": {
+          "en": "Whether it's art, styling, fashion or websites, good design is a must.",
+          "de": "Ob Kunst, Styling, Mode oder Websites – gutes Design muss sein."
+        },
+        "details": {
+          "en": "There isn't much I can show here yet, but one thing I can say with certainty: design matters enormously to me. What fascinates me most is that design always steers people a little.\n\nHow you dress, how you draw or how you place elements on a website: depending on the design, it makes people feel different things. Good design makes things **easier to understand**, makes boring things exciting or increases efficiency.\n\nWhen I work on projects, I'm constantly thinking about design. I ask myself which quality to focus on, how to strengthen it and how to put it into practice.\n\nThat's what makes a project feel **well thought out**. And that's exactly what I strive for.",
+          "de": "Zeigen kann ich hier noch wenig, aber eines kann ich mit Klarheit sagen: Design ist mir unglaublich wichtig. Besonders spannend finde ich, dass Design Menschen immer auch ein bisschen lenkt.\n\nWie man sich anzieht, wie man zeichnet oder wie man Elemente auf einer Website platziert: Je nach Design löst das bei Menschen andere Gefühle aus. Gutes Design macht Dinge **verständlicher**, lässt Langweiliges spannend wirken oder steigert die Effizienz.\n\nBei Projekten denke ich ständig über das Design nach. Ich frage mich, auf welche Eigenschaft ich mich konzentrieren soll, wie ich sie verstärken kann und wie ich das umsetze.\n\nSo fühlen sich Projekte **durchdacht** an. Genau danach strebe ich."
+        },
+        "images": [
+          "assets/uploads/design-cover-772ca2@2400.webp",
+          "assets/uploads/design-system-af2852@2400.webp",
+          "assets/uploads/design-tiles-80b748@2400.webp",
+          "assets/uploads/design-phones-0d7ce7@2400.webp"
+        ]
+      },
+      {
+        "title": {
+          "en": "Photography and Filmmaking",
+          "de": "Fotografie und Film"
+        },
+        "text": {
+          "en": "This is where my creativity gets to run free.",
+          "de": "Hier kann ich meiner Kreativität freien Lauf lassen."
+        },
+        "details": {
+          "en": "Whether with my phone or my camera, I take photos everywhere. Almost every experience ends up in my photo library.\n\nBesides photography, I also like making videos for school and the scouts, which I **edit myself**. Unfortunately, I still lack some equipment to record good audio.\n\nEither way, I'm really passionate about it and love expressing my creativity in all kinds of projects. I'm always trying out new angles and ideas.",
+          "de": "Ob mit dem Handy oder mit der Kamera: Fotos mache ich überall. Fast jedes Erlebnis landet bei mir in der Mediathek.\n\nNeben dem Fotografieren drehe ich für die Schule und die Pfadi auch gerne Videos, die ich **selbst schneide**. Leider fehlt mir noch etwas Ausrüstung, um guten Ton aufzunehmen.\n\nJedenfalls bin ich mit Begeisterung dabei und habe riesige Freude daran, meine Kreativität in verschiedenen Projekten auszudrücken. Dabei probiere ich immer wieder neue Blickwinkel und Ideen aus."
+        },
+        "images": [
+          "assets/uploads/dsc09360-319e61@1351.webp",
+          "assets/uploads/dsc09642-440ee7@1351.webp",
+          "assets/uploads/dsc08198-826b74@2400.webp",
+          "assets/uploads/e966bdbc-5bad-4593-8618-0ac8b5e2db29-0b03b9@1536.webp"
+        ]
+      },
+      {
+        "title": {
+          "en": "Scouts",
+          "de": "Pfadi"
+        },
+        "text": {
+          "en": "My love for the scout movement is unbreakable.",
+          "de": "Meine Liebe zur Pfadi ist unzerbrechlich."
+        },
+        "details": {
+          "de": "2016 hat alles angefangen: zuerst als Wölfi, dann als Pfader, Pio und schliesslich als **Pfadileiter**.\n\nAuf dem ganzen Weg bis zum Leiter konnte ich mich charakterlich und technisch stark weiterentwickeln. Neben dem üblichen Kartenlesen und Feuermachen habe ich gelernt, **Verantwortung** zu übernehmen, eine Gruppe zu **führen** und Projekte von A bis Z zu organisieren.\n\nZusätzlich zu meiner Rolle als Leitperson habe ich weitere Aufgaben und Ressorts übernommen.\n\nDazu gehören:\n**Kerzenzieh-Verantwortlicher:** Zu zweit organisiere und betreibe ich einen Kerzenziehstand am Weihnachtsmarkt.\n**Ressort Infrastruktur:** Ich bin für den ganzen oberen Stock des Pfadiheims verantwortlich und achte darauf, dass alles funktioniert. Dabei arbeite ich eng mit der Materialstelle zusammen.\n**Materialchef:** Zu zweit behalten wir den Überblick über das gesamte Material unserer Abteilung und sorgen dafür, dass alles instand bleibt.",
+          "en": "I started in 2016: first as a cub (Wölfi), then as a scout (Pfader), a venturer (Pio) and finally a **scout leader**.\n\nOn the way to becoming a leader, I grew a lot, both in character and in practical skills. Besides the usual map reading and fire lighting, I learned to take **responsibility**, to **lead** a group and to organise projects from start to finish.\n\nAlongside my role as a leader, I have taken on additional tasks and areas of responsibility.\n\nThese include:\n**Candle-dipping manager:** together with a partner, I organise and run a candle-dipping stand at the Christmas market.\n**Infrastructure department:** I am responsible for the entire upper floor of our scout hut and make sure everything works. I work closely with the materials office.\n**Head of materials:** together with a partner, I keep track of all the equipment in our group and make sure it stays in good condition."
+        },
+        "images": [
+          "assets/uploads/dsc03086-b51ff8@2400.webp",
+          "assets/uploads/5dc498c2-f6b9-4b16-a64e-0ff5bcc19b21-824c15@2048.webp",
+          "assets/uploads/miteinander-9ae5fd@1603.webp",
+          "assets/uploads/dsc05258-1db037@1800.webp",
+          "assets/uploads/dsc00130-d07aa1@1600.webp"
+        ]
+      }
+    ]
+  },
+  "reference": {
+    "navLabel": {
+      "en": "Reference",
+      "de": "Referenz"
+    },
+    "eyebrow": {
+      "en": "Reference",
+      "de": "Referenz"
+    },
+    "headline": {
+      "en": "Who can vouch for me.",
+      "de": "Wer für mich bürgt."
+    },
+    "photo": "",
+    "name": "Silvan Gehrig",
+    "role": {
+      "en": "IT module teacher",
+      "de": "Lehrer für IT-Module"
+    },
+    "note": {
+      "en": "Contact details available on request.",
+      "de": "Kontaktangaben auf Anfrage."
+    }
+  },
+  "contact": {
+    "eyebrow": {
+      "en": "Contact",
+      "de": "Kontakt"
+    },
+    "headline": {
+      "en": "Let's talk.",
+      "de": "Lass uns reden."
+    },
+    "text": {
+      "en": "I look forward to hearing from you.",
+      "de": "Ich freue mich auf deine Nachricht."
+    },
+    "email": "riva.nikolay@gmail.com",
+    "phone": "+41 78 810 84 44",
+    "emailButton": {
+      "en": "Send an email",
+      "de": "E-Mail schreiben"
+    },
+    "phoneButton": {
+      "en": "Call",
+      "de": "Anrufen"
+    }
+  },
+  "footer": {
+    "text": {
+      "en": "Copyright © 2026 Nikolay Riva. All rights reserved.",
+      "de": "Copyright © 2026 Nikolay Riva. Alle Rechte vorbehalten."
+    },
+    "note": {
+      "en": "Designed and built by hand.",
+      "de": "Von Hand gestaltet und gebaut."
+    }
+  },
+  "media": {
+    "assets/uploads/9f6f0198-471e-4056-96dd-26531c4603e7-1-1-5d7dff.webp": {
+      "x": 66,
+      "y": 43,
+      "zoom": 1,
+      "fit": "cover"
+    },
+    "assets/uploads/5dc498c2-f6b9-4b16-a64e-0ff5bcc19b21-824c15@2048.webp": {
+      "x": 37,
+      "y": 49,
+      "zoom": 1,
+      "fit": "cover",
+      "caption": {
+        "en": "The tents we sleep in at camp. This type of tent is called a \"Spatz\".",
+        "de": "Die Zelte, in denen wir im Lager schlafen. Diese Zeltart heisst «Spatz»."
+      }
+    },
+    "assets/uploads/miteinander-9ae5fd@1603.webp": {
+      "x": 49,
+      "y": 36,
+      "zoom": 1,
+      "fit": "cover",
+      "caption": {
+        "en": "Making posters to decorate our candle-dipping stand.",
+        "de": "Hier gestalte ich Plakate, die unseren Kerzenziehstand schmücken."
+      }
+    },
+    "assets/uploads/dsc00130-d07aa1@1600.webp": {
+      "x": 52,
+      "y": 33,
+      "zoom": 1,
+      "fit": "cover",
+      "caption": {
+        "en": "Me posing for a new portrait that will appear on the official website.",
+        "de": "Ich posiere für ein neues Porträt, das auf der offiziellen Website erscheinen wird."
+      }
+    },
+    "assets/uploads/f52e8d8d-6567-4617-b9a4-7e866b4d6ae6-1-1-564fc8@768.webp": {
+      "x": 51,
+      "y": 64,
+      "zoom": 1.22,
+      "fit": "cover",
+      "caption": {
+        "en": "My own PC, which I built myself by hand.",
+        "de": "Mein eigener PC, den ich selbst von Hand zusammengebaut habe."
+      }
+    },
+    "assets/uploads/3f5deba9-e590-4a85-803a-348b0063044b-1-1-9a7b91@2048.webp": {
+      "x": 50,
+      "y": 50,
+      "zoom": 3,
+      "fit": "cover",
+      "caption": {
+        "en": "I just couldn't miss this stunning view while skiing.",
+        "de": "Diese atemberaubende Aussicht beim Skifahren durfte ich mir einfach nicht entgehen lassen."
+      }
+    },
+    "assets/uploads/61b5cd48-c607-4975-99dd-44e7be8f4b4f-1-1-2cccd1@1024.webp": {
+      "x": 49,
+      "y": 49,
+      "zoom": 1,
+      "fit": "cover",
+      "caption": {
+        "en": "Setting up my PC in the BIOS, then installing the operating system.",
+        "de": "Hier richte ich meinen PC im BIOS ein und installiere danach das Betriebssystem."
+      }
+    },
+    "assets/uploads/dsc00817-391082@2400.webp": {
+      "caption": {
+        "en": "A beautiful, dramatic late sunset over the Churfirsten, out on a hike.",
+        "de": "Ein wunderschöner, dramatischer Sonnenuntergang über den Churfirsten, unterwegs auf einer Wanderung."
+      }
+    },
+    "assets/uploads/b111f683-6c2e-4113-bf4d-eef94c0fb1e9-1-1-ddf2ad@768.webp": {
+      "caption": {
+        "en": "A lake straight out of a fairy tale. I found it while looking for a place to camp.",
+        "de": "Ein See wie aus dem Märchen. Entdeckt habe ich ihn auf der Suche nach einem Zeltplatz."
+      }
+    },
+    "assets/uploads/b831d99e-9b53-47d0-adae-4b91ba4bbc3c-1-1-8cd48f@768.webp": {
+      "caption": {
+        "en": "Mighty and rugged, this rock stands all alone on top of the hill.",
+        "de": "Mächtig und schroff steht dieser Felsen ganz allein auf dem Hügel."
+      }
+    },
+    "assets/uploads/a6f3892e-f167-4b70-95f2-c8956bd0b8f3-1-1-51e169@1024.webp": {
+      "caption": {
+        "en": "A quick selfie on a hike. You can see the climb I had just made, but the view was all the better for it.",
+        "de": "Ein schnelles Selfie beim Wandern. Man sieht, welchen Aufstieg ich gerade geschafft hatte, aber dafür war die Aussicht umso schöner."
+      }
+    },
+    "assets/uploads/design-cover-772ca2@2400.webp": {
+      "caption": {
+        "en": "Small design snippets from building this CV.",
+        "de": "Kleine Design-Ausschnitte aus der Entstehung dieses Lebenslaufs."
+      }
+    },
+    "assets/uploads/design-system-af2852@2400.webp": {
+      "caption": {
+        "en": "A full overview of the design choices I made.",
+        "de": "Eine vollständige Übersicht über meine Design-Entscheidungen."
+      }
+    },
+    "assets/uploads/design-tiles-80b748@2400.webp": {
+      "caption": {
+        "en": "A design I'm very proud of.",
+        "de": "Ein Design, auf das ich sehr stolz bin."
+      }
+    },
+    "assets/uploads/design-phones-0d7ce7@2400.webp": {
+      "caption": {
+        "en": "And of course, the design on the phone!",
+        "de": "Das Design auf dem Handy darf natürlich nicht fehlen!"
+      }
+    },
+    "assets/uploads/dsc09360-319e61@1351.webp": {
+      "caption": {
+        "en": "Caught perfectly in the middle of a helicopter show. Still one of my favourite photos of all time.",
+        "de": "Perfekt erwischt, mitten in der Show dieses Helikopters. Bis heute eines meiner Lieblingsfotos."
+      }
+    },
+    "assets/uploads/dsc09642-440ee7@1351.webp": {
+      "caption": {
+        "en": "I took this one just for fun and was amazed at how well it turned out.",
+        "de": "Dieses Foto habe ich nur zum Spass gemacht und war erstaunt, wie gut es geworden ist."
+      }
+    },
+    "assets/uploads/dsc08198-826b74@2400.webp": {
+      "caption": {
+        "en": "Perfect conditions make perfect, impressive art.",
+        "de": "Perfekte Bedingungen schaffen perfekte, eindrückliche Kunst."
+      }
+    },
+    "assets/uploads/e966bdbc-5bad-4593-8618-0ac8b5e2db29-0b03b9@1536.webp": {
+      "caption": {
+        "en": "This was quite a while ago, but that's me taking photos for the scouts.",
+        "de": "Das ist schon eine Weile her, aber das bin ich beim Fotografieren für die Pfadi."
+      }
+    },
+    "assets/uploads/dsc03086-b51ff8@2400.webp": {
+      "caption": {
+        "en": "Making a fire is basic knowledge for every scout, and the campfire is one of our best-known symbols.",
+        "de": "Feuermachen gehört für Pfadis zum Grundwissen, und das Lagerfeuer ist eines unserer bekanntesten Symbole."
+      }
+    },
+    "assets/uploads/dsc05258-1db037@1800.webp": {
+      "caption": {
+        "en": "The tool wall in our storage room.",
+        "de": "Die Werkzeugwand in unserem Materialraum."
+      }
+    }
+  }
+}
